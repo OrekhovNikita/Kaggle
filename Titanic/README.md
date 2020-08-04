@@ -1,6 +1,6 @@
 # [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-## Extensive data analysis, feature engineering, hyperparameter tuning and voting classifier
+## Extensive data analysis, Feature engineering, Hyperparameter tuning and Voting classifier
 
 ![](https://miro.medium.com/max/2560/1*RR8hZmZBIX7YMjfeLTn_ww.jpeg)
 
