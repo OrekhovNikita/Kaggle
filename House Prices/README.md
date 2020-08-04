@@ -1,6 +1,6 @@
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-!(https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
+![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
 Competition Description
 
