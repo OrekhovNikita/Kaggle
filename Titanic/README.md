@@ -27,7 +27,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 | embarked | Port of Embarkation | C = Cherbourg, Q = Queenstown, S = Southampton |
 
 Variable Notes
-pclass: A proxy for socio-economic status (SES)
+pclass: A proxy for socio-economic status (SES):
 
 1st = Upper
 
