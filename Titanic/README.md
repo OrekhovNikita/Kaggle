@@ -28,6 +28,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 Variable Notes
 pclass: A proxy for socio-economic status (SES)
+
 1st = Upper
 2nd = Middle
 3rd = Lower
