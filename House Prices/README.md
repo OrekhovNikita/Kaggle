@@ -1,6 +1,6 @@
 # [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-## Extensive data analysis, feature engineering, hyperparameter tuning, stacked regressions
+## Extensive data analysis, feature engineering, hyperparameter tuning and stacked regressions
 
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
