@@ -30,7 +30,9 @@ Variable Notes
 pclass: A proxy for socio-economic status (SES)
 
 1st = Upper
+
 2nd = Middle
+
 3rd = Lower
 
 age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
