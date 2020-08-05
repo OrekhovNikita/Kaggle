@@ -79,7 +79,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 | GarageYrBlt | Year garage was built |
 | GarageFinish | Interior finish of the garage |
 | GarageCars | Size of garage in car capacity |
-
 | GarageArea | Size of garage in square feet |
 | GarageQual | Garage quality |
 | GarageCond | Garage condition |
