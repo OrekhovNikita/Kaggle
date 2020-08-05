@@ -4,27 +4,10 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Home_credit_logo_640px.jpg)
 
-The Challenge
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+Home Credit Group
 
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
-In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-
-| Variable | Definition | Key |
-| ---------| ---------- | --- |
-| survival | Survival | 0 = No, 1 = Yes |
-| pclass | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |
-| sex | Sex |  |
-| Age | Age in years |  |
-| sibsp | # of siblings / spouses aboard the Titanic |  |
-| parch | # of parents / children aboard the Titanic | |
-| ticket | Ticket number | |
-| fare | Passenger fare | |
-| cabin | Cabin number | 0 = No, 1 = Yes |
-| embarked | Port of Embarkation | C = Cherbourg, Q = Queenstown, S = Southampton |
-
-Variable Notes
-pclass: A proxy for socio-economic status (SES):
+While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
