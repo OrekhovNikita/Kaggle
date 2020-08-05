@@ -16,23 +16,28 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ## Data Description
 
 
-# SalePrice 
+### SalePrice 
 the property's sale price in dollars. This is the target variable that you're trying to predict.
 
-# MSSubClass
+### MSSubClass
 
 The building class
 
-# MSZoning 
+### MSZoning 
 
 The general zoning classification
 
-# LotFrontage 
+### LotFrontage 
 
 Linear feet of street connected to property
 
-LotArea: Lot size in square feet
-Street: Type of road access
+### LotArea
+
+Lot size in square feet
+
+### Street
+
+Type of road access
 Alley: Type of alley access
 LotShape: General shape of property
 LandContour: Flatness of the property
