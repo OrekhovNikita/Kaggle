@@ -15,6 +15,21 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ## Data Description
 
+| Variable | Definition |
+| ---------| ---------- |
+| SalePrice | the property's sale price in dollars. This is the target variable that you're trying to predict. |
+| MSSubClass | The building class |
+| sex | Sex |
+| Age | Age in years |
+| sibsp | # of siblings / spouses aboard the Titanic |
+| parch | # of parents / children aboard the Titanic |
+| ticket | Ticket number |
+| fare | Passenger fare |
+| cabin | Cabin number |
+| embarked | Port of Embarkation |
+
+
+
 
 ### SalePrice 
 the property's sale price in dollars. This is the target variable that you're trying to predict.
