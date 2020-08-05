@@ -56,3 +56,5 @@ One row is equivalent to one payment of one installment OR one installment corre
 ### HomeCredit_columns_description.csv
 
 This file contains descriptions for the columns in the various data files.
+
+![](https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png)
