@@ -1,6 +1,6 @@
 # [Home Credit Default Risk](https://www.kaggle.com/c/titanic)
 
-## Extensive data analysis, Feature engineering, Hyperparameter tuning
+## Extensive data analysis, Feature engineering, XGBCLassifier Hyperparameter tuning
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Home_credit_logo_640px.jpg)
 
